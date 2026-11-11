@@ -1,0 +1,136 @@
+@media (max-width: 300px) {
+    .testimonial-text{
+        padding:0;
+      }
+}
+@media (min-width: 301px) and (max-width: 600px) {
+    .top-banner h1 {
+        font-size: 30px;
+       
+    }
+    .link_copy_right{
+        color:#ffffff;
+        /* font-weight: 800; */
+        font-size: 12px;
+         }
+         #footer  p{     
+            font-size: 12px;
+         width: 64%;
+         padding: 20px 10px;
+              text-align: center;
+    
+    }  
+         .nav h6 a{
+            color:white;
+            /* font-weight: 700;
+            font-size: 14px; */
+         }
+         .testimonial-text{
+            padding:1rem;
+          }
+    
+}
+@media (min-width: 601px) and (max-width: 991px) {
+    .top-banner h1 {
+        font-size: 39px;
+        line-height: 3rem;
+        text-align: center;
+    }
+    
+    .top-banner p{
+        text-align: center;
+    }
+    .top-banner .text-bg .btn-main{
+        text-align: center;
+    }
+    .text-bg{
+        padding:8rem 0 8rem;
+    }
+    .navigation-wrap{
+        text-align: center;
+        margin:0;
+        flex-direction: column;
+
+    }
+    .navigation-wrap .nav-link{
+        line-height: 1.9rem;
+    }
+    .pass-text{
+        width:100%;
+    }
+    .testimonial-text{
+        padding:1rem;
+      }
+}
+@media (min-width: 992px) and (max-width: 1028px) {
+    .top-banner h1 {
+        font-size: 30px;
+       
+    }
+    .testimonial-text{
+        padding:1rem;
+      }
+}
+
+@media (min-width: 1029px) and (max-width: 1139px) {
+.top-banner .img-bg img{
+    height: 560px;
+    object-fit: cover;
+}
+.top-banner h1 {
+    font-size: 43px;
+   
+}
+.testimonial-text{
+    padding-left:3rem;
+    padding-top:0.5rem;
+    padding-bottom: 0.5rem;
+  }
+  /* .testimonial-text p{
+    font-size: 12px;
+  } */
+
+}
+@media (min-width: 1264px) and (max-width: 1400px) {
+
+    .top-banner .img-bg img{
+        height: 560px;
+        object-fit: cover;
+    }
+    .top-banner h1 {
+        font-size: 43px;
+       
+    }
+    /* .testimonial-text{
+        padding-left:3rem;
+        padding-top:0.5rem;
+        padding-bottom: 0.5rem;
+      } */
+}
+@media (min-width: 1138px) and (max-width: 1264px) {
+    .testimonial-text{
+        padding-left:3rem;
+        padding-top:1rem;
+        padding-bottom: 0.5rem;
+      }
+}
+@media (min-width:1401px) and (max-width:1990px){
+
+    .top-banner h1 {
+        font-size: 50px;
+       
+    }
+    .text-bg{
+        padding:10rem 0 9.375rem;
+    }
+    
+}
+
+
+
+@media (max-width:1991px){
+    .top-banner h1 {
+        font-size: 50px;
+       
+    }
+}
